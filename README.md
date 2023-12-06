@@ -1,4 +1,4 @@
-## Library Management System 📚
+## Library Management System 
 A web application for managing a local library. The application allow users to browse available books, reserve books, and manage their accounts. Administrators should be able to add, update, or remove books and manage user accounts.
 
 
@@ -20,7 +20,7 @@ A web application for managing a local library. The application allow users to b
 
 3. Run `nodemon server.js` to start the server [Should have installed nodemon globally]
 
-### Frontend Setup 🍧
+### Frontend Setup
 
 1. Get into the frontend directory `cd frontend`
 
@@ -29,7 +29,7 @@ A web application for managing a local library. The application allow users to b
 3. Run `yarn start` to start the application
 
 
-## Technologies 🛠
+## Technologies
 
 - ReactJS[Hooks]
 - NodeJs
