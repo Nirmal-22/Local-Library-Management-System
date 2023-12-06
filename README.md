@@ -18,7 +18,9 @@ A web application for managing a local library. The application allow users to b
 
 2. Run `yarn` to install dependencies
 
-3. Run `nodemon server.js` to start the server [Should have installed nodemon globally]
+3. Create a `.env` file and create variables as mentioned in the `.env.example` with the values
+  
+4. Run `nodemon server.js` to start the server [Should have installed nodemon globally]
 
 ### Frontend Setup
 
@@ -26,7 +28,9 @@ A web application for managing a local library. The application allow users to b
 
 2. Run `yarn` to install dependencies
 
-3. Run `yarn start` to start the application
+3.Create a `.env` file and create variables as mentioned in the `.env.example` with the values
+
+4. Run `yarn start` to start the application
 
 
 ## Technologies
